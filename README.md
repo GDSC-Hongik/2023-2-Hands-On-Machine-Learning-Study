@@ -44,6 +44,8 @@
 │     │   
 │     ├─ .. 이하 동일
 │     │
+│     ├─ images (dir)
+│     │
 │     └─ Assignment Questions (dir)
 │           │ 
 │           ├─  question_Week1.md // 해당 주차 과제 질문.
