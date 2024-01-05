@@ -1,4 +1,4 @@
-https://github.com/GDSC-Hongik/2023-2-Hands-On-Machine-Learning-Study/blob/suhyeonx/suhyeonx/Week_2.md# 10장 케라스를 사용한 인공 신경망 소개
+# 10장 케라스를 사용한 인공 신경망 소개
 인공 신경망 artificial neural network(ANN):
 뇌에 있는 생물학적 뉴런의 네트워크에서 영감을 받은 머신러닝 모델
 
